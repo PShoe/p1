@@ -9,7 +9,7 @@
 
 	<body>
 		<header>
-			<a href="#home">Pauline Shoemaker</a>
+			<a href="#">Pauline Shoemaker</a>
 			<ul class="nav-menu">
 				<li><a href="#p2">p2</a></li>
 				<li><a href="#p3">p3</a></li>
