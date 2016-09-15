@@ -19,4 +19,4 @@ README.md
 ## Outside materials
 *Bootstrap
 *Initialize CSS
-*Last minute TA help- thank you!
+*Last minute TA help- thank you! 
