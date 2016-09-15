@@ -1,0 +1,29 @@
+/* Debugging Code */
+/*
+* {
+  background-color: rgba(0,0,0,0.1);
+  border: 1px solid rgba(0,0,0,0.1);
+}
+*/
+/*Global*/
+body{
+	background-color: #eee;
+}
+a {
+	text-decoration: none;
+}
+
+/*Header*/
+header {
+	background-color: #fff;
+	overflow: auto;
+}
+.nav-menu {
+	text-decoration: none;
+	margin: 0;
+	padding: 0;
+	float: right;
+}
+.nav-menu li {
+	display: inline-block;
+}
