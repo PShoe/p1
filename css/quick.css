@@ -24,7 +24,6 @@ header {
 	padding-right: 20px;
 	float: right;
 	font-size: 20px;
-	border: 2px solid black;
 }
 .nav-menu li {
 	display: inline-block;
@@ -36,7 +35,12 @@ header {
 	font-family: 'Open Sans', sans-serif;
 	padding-left: 20px 20px;
 	margin: 10px;
-	border: 3px solid black;
 	font-size: 25px;
 	float: left;
+}
+
+p {
+	font-size: 20px;
+	color: red;
+	margin: 10px;
 }
