@@ -20,10 +20,23 @@ header {
 }
 .nav-menu {
 	text-decoration: none;
-	margin: 0;
-	padding: 0;
+	margin: 10px;
+	padding-right: 20px;
 	float: right;
+	font-size: 20px;
+	border: 2px solid black;
 }
 .nav-menu li {
 	display: inline-block;
+	padding: 10px 10px;
+	border-bottom: 1px solid black;
+
+}
+.homename {
+	font-family: 'Open Sans', sans-serif;
+	padding-left: 20px 20px;
+	margin: 10px;
+	border: 3px solid black;
+	font-size: 25px;
+	float: left;
 }
